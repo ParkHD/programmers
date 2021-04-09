@@ -7,10 +7,13 @@ namespace Programmers
     {
         static void Main(string[] args)
         {
-            string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" }; 
-            digits = digits.Where((x, index) => x.Length < index).ToArray();
+            string[] strings = { "sun", "bed", "car" };
+            Sort sort = new Sort();
+            for(int i = 0;i<strings.Length;i++)
+            {
+                Console.WriteLine(sort.solution1(strings, 1)[i]);
+            }
 
-            Console.WriteLine(digits[0]);
         }
     }
 }

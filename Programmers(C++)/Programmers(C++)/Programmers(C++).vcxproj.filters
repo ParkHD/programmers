@@ -26,5 +26,29 @@
     <ClInclude Include="_0409_LV1_크레인인형뽑기.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0410_LV1_완주하지 못한 선수.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0410_LV1_신규아이디 추천.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_3진법 뒤집기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_K번째.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_모의고사.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_체육복.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_가운데 글자 가져오기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0412_LV1_같은숫자는 싫어.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

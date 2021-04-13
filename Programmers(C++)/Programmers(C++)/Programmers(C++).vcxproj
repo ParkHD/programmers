@@ -152,6 +152,11 @@
     <ClInclude Include="_0412_LV1_K번째.h" />
     <ClInclude Include="_0412_LV1_3진법 뒤집기.h" />
     <ClInclude Include="_0412_LV1_체육복.h" />
+    <ClInclude Include="_0413_LV1_나누어 떨어지는 숫자배열.h" />
+    <ClInclude Include="_0413_LV1_두 정수 사이의 합.h" />
+    <ClInclude Include="_0413_LV1_문자열 내 p와y의 개수h.h" />
+    <ClInclude Include="_0413_LV1_문자열 내 마음대로 정렬하기.h" />
+    <ClInclude Include="_0413_LV1_폰켓몬.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

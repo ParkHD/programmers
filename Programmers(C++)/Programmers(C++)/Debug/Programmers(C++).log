@@ -5,21 +5,6 @@ C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개�
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(26,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(50,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_크레인인형뽑기.h(14,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_크레인인형뽑기.h(17,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_크레인인형뽑기.h(34,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0410_LV1_신규아이디 추천.h(16,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_모의고사.h(15,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_모의고사.h(31,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_K번째.h(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_3진법 뒤집기.h(22,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_3진법 뒤집기.h(24,48): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_체육복.h(22,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_체육복.h(38,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0412_LV1_체육복.h(46,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(36,2): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0410_LV1_완주하지 못한 선수.h(48): warning C4715: 'solution2': 모든 제어 경로에서 값을 반환하지는 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0410_LV1_완주하지 못한 선수.h(31): warning C4715: 'solution1': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0413_LV1_폰켓몬.h(14,26): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Programmers(C++).vcxproj -> C:\Users\guseh\source\repos\Programmers(C++)\Debug\Programmers(C++).exe

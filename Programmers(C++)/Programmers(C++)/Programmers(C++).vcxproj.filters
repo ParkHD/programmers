@@ -50,5 +50,20 @@
     <ClInclude Include="_0412_LV1_같은숫자는 싫어.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0413_LV1_나누어 떨어지는 숫자배열.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0413_LV1_두 정수 사이의 합.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0413_LV1_문자열 내 마음대로 정렬하기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0413_LV1_폰켓몬.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0413_LV1_문자열 내 p와y의 개수h.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

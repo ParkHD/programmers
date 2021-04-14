@@ -10,12 +10,30 @@
 //#include "_0413_LV1_문자열 내 마음대로 정렬하기.h"
 #include <unordered_map>
 #include "_0413_LV1_폰켓몬.h"
-void Show(vector<int> vector)
+void Show(vector<string> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
 	{
 		cout << vector[i] << endl;
 	}
+}	
+int i;
+
+bool compare(char a, char b)
+{
+	return a>b;
+}
+
+//vector<string> solution(vector<string> strings, int n) {
+//	i = n;
+//	sort(strings.begin(), strings.end(), compare);
+//	return strings;
+//}
+string solution(string s)
+{
+	string answer = "";
+	sort(s.begin(), s.end(),compare);
+	return s;
 }
 int main()
 {
@@ -40,8 +58,6 @@ int main()
 	////vec.erase(unique(vec.begin(), vec.end()),vec.end());
 	//Show(vec);
 
-
-	vector<int> nums = { 2,2,3,3,1 };
-
-	cout << solution1(nums) << endl;
+	string s = "abdEce";
+	cout << solution(s) << endl;
 }

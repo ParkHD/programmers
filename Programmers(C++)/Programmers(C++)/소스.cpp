@@ -10,6 +10,7 @@
 //#include "_0413_LV1_문자열 내 마음대로 정렬하기.h"
 #include <unordered_map>
 #include "_0413_LV1_폰켓몬.h"
+#include "_0415_LV1_소수 찾기.h"
 void Show(vector<string> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
@@ -57,7 +58,6 @@ int main()
 	//unique(vec.begin(), vec.end());
 	////vec.erase(unique(vec.begin(), vec.end()),vec.end());
 	//Show(vec);
+	cout << solution1(20);
 
-	string s = "abdEce";
-	cout << solution(s) << endl;
 }

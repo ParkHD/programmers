@@ -158,6 +158,9 @@
     <ClInclude Include="_0413_LV1_문자열 내 마음대로 정렬하기.h" />
     <ClInclude Include="_0413_LV1_폰켓몬.h" />
     <ClInclude Include="_0414_LV1_문자열 내림차순으로 정렬하기.h" />
+    <ClInclude Include="_0415_LV1_문자열 다루기 기본.h" />
+    <ClInclude Include="_0415_LV1_서울에서 김서방 찾기.h" />
+    <ClInclude Include="_0415_LV1_소수 찾기.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

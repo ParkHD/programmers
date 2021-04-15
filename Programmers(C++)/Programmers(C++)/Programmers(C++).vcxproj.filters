@@ -68,5 +68,14 @@
     <ClInclude Include="_0414_LV1_문자열 내림차순으로 정렬하기.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0415_LV1_문자열 다루기 기본.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0415_LV1_서울에서 김서방 찾기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0415_LV1_소수 찾기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

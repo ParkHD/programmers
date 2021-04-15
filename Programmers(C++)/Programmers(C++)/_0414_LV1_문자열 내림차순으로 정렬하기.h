@@ -22,7 +22,7 @@ string solution1(string s) {
 	return s;
 }
 
-string solution2(string s) {
+string solution2(string s)	{
 	sort(s.rbegin(), s.rend());
 	return s;
 }

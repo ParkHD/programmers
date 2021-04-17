@@ -77,5 +77,26 @@
     <ClInclude Include="_0415_LV1_소수 찾기.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0416_LV1_수박수박수박.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0416_LV1_문자열을 정수로 바꾸기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0416_LV1_시저 암호.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0417_LV1_음양 더하기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0417_LV1_예산.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0417_LV1_소수 만들기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0417_LV1_내적.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

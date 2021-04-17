@@ -5,6 +5,9 @@ C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개�
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(26,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(50,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0413_LV1_폰켓몬.h(14,26): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0417_LV1_소수 만들기.h(10,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0417_LV1_소수 만들기.h(12,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0417_LV1_소수 만들기.h(14,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0417_LV1_소수 만들기.h(22,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Programmers(C++).vcxproj -> C:\Users\guseh\source\repos\Programmers(C++)\Debug\Programmers(C++).exe

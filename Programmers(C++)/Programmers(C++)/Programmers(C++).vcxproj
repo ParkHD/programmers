@@ -161,6 +161,13 @@
     <ClInclude Include="_0415_LV1_문자열 다루기 기본.h" />
     <ClInclude Include="_0415_LV1_서울에서 김서방 찾기.h" />
     <ClInclude Include="_0415_LV1_소수 찾기.h" />
+    <ClInclude Include="_0416_LV1_문자열을 정수로 바꾸기.h" />
+    <ClInclude Include="_0416_LV1_수박수박수박.h" />
+    <ClInclude Include="_0416_LV1_시저 암호.h" />
+    <ClInclude Include="_0417_LV1_내적.h" />
+    <ClInclude Include="_0417_LV1_소수 만들기.h" />
+    <ClInclude Include="_0417_LV1_예산.h" />
+    <ClInclude Include="_0417_LV1_음양 더하기.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

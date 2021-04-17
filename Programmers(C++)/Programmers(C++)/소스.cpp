@@ -9,9 +9,9 @@
 //#include "_0412_LV1_체육복.h"
 //#include "_0413_LV1_문자열 내 마음대로 정렬하기.h"
 #include <unordered_map>
-#include "_0413_LV1_폰켓몬.h"
-#include "_0415_LV1_소수 찾기.h"
-void Show(vector<string> vector)
+
+#include "_0417_LV1_소수 만들기.h"
+void Show(vector<int> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
 	{
@@ -30,12 +30,7 @@ bool compare(char a, char b)
 //	sort(strings.begin(), strings.end(), compare);
 //	return strings;
 //}
-string solution(string s)
-{
-	string answer = "";
-	sort(s.begin(), s.end(),compare);
-	return s;
-}
+
 int main()
 {
 #pragma region k번째 예제
@@ -58,6 +53,10 @@ int main()
 	//unique(vec.begin(), vec.end());
 	////vec.erase(unique(vec.begin(), vec.end()),vec.end());
 	//Show(vec);
-	cout << solution1(20);
-
+	//cout << solution1(20);
+	
+	vector<int> vec = { 1,4,2,5,3 };
+	
+	cout<<solution(vec);
+	
 }

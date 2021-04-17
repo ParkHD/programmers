@@ -55,7 +55,10 @@ int solution1(int n)
     {
         for (int j = 2; i*j <= n; j++)
         {
-            vec[i * j] = 1;
+            if (vec[i * j] != 1)
+            {
+                vec[i * j] = 1;
+            }
         }
     }
     for (int i = 2; i <= n; i++)

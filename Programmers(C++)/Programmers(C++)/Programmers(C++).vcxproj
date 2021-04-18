@@ -168,6 +168,14 @@
     <ClInclude Include="_0417_LV1_소수 만들기.h" />
     <ClInclude Include="_0417_LV1_예산.h" />
     <ClInclude Include="_0417_LV1_음양 더하기.h" />
+    <ClInclude Include="_0418_LV1_이상한문자 만들기.h" />
+    <ClInclude Include="_0418_LV1_자릿수 더하기.h" />
+    <ClInclude Include="_0418_LV1_자연수 뒤집어 배열로 만들기.h" />
+    <ClInclude Include="_0418_LV1_정수 내림차순으로 배치하기.h" />
+    <ClInclude Include="_0418_LV1_정수 제곱근 판별.h" />
+    <ClInclude Include="_0418_LV1_제일 작은 수 제거하기.h" />
+    <ClInclude Include="_0418_LV1_최대공약수와 최소공배수.h" />
+    <ClInclude Include="_0418_LV1_키패드 누르기.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

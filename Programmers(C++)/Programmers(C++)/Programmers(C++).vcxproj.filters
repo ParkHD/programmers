@@ -122,5 +122,35 @@
     <ClInclude Include="_0418_LV1_최대공약수와 최소공배수.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0419_LV1_콜라츠 추측.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_평균구하기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_하샤드 수.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_핸드폰 번호 가리기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_행렬의 덧셈.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_x만큼 간격이 있는n개의 숫자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_직사각형 별찍기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_비밀지도.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_실패율.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0419_LV1_다트 게임.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

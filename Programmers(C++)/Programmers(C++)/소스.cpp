@@ -8,8 +8,9 @@
 //#include "_0412_LV1_3진법 뒤집기.h"
 //#include "_0412_LV1_체육복.h"
 //#include "_0413_LV1_문자열 내 마음대로 정렬하기.h"
-#include "_0418_LV1_키패드 누르기.h"
-#include "_0418_LV1_최대공약수와 최소공배수.h"
+#include "_0419_LV1_비밀지도.h"
+#include "_0419_LV1_실패율.h"
+#include "_0419_LV1_다트 게임.h"
 void Show(vector<int> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
@@ -53,7 +54,5 @@ int main()
 	////vec.erase(unique(vec.begin(), vec.end()),vec.end());
 	//Show(vec);
 	//cout << solution1(20);
-
-	Show(solution(60, 48));
-
+	cout << solution("1D2S#10S");
 }

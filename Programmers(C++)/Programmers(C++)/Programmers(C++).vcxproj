@@ -176,6 +176,16 @@
     <ClInclude Include="_0418_LV1_제일 작은 수 제거하기.h" />
     <ClInclude Include="_0418_LV1_최대공약수와 최소공배수.h" />
     <ClInclude Include="_0418_LV1_키패드 누르기.h" />
+    <ClInclude Include="_0419_LV1_x만큼 간격이 있는n개의 숫자.h" />
+    <ClInclude Include="_0419_LV1_다트 게임.h" />
+    <ClInclude Include="_0419_LV1_비밀지도.h" />
+    <ClInclude Include="_0419_LV1_실패율.h" />
+    <ClInclude Include="_0419_LV1_직사각형 별찍기.h" />
+    <ClInclude Include="_0419_LV1_콜라츠 추측.h" />
+    <ClInclude Include="_0419_LV1_평균구하기.h" />
+    <ClInclude Include="_0419_LV1_하샤드 수.h" />
+    <ClInclude Include="_0419_LV1_핸드폰 번호 가리기.h" />
+    <ClInclude Include="_0419_LV1_행렬의 덧셈.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

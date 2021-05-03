@@ -186,6 +186,13 @@
     <ClInclude Include="_0419_LV1_하샤드 수.h" />
     <ClInclude Include="_0419_LV1_핸드폰 번호 가리기.h" />
     <ClInclude Include="_0419_LV1_행렬의 덧셈.h" />
+    <ClInclude Include="_0420_LV2_기능개발.h" />
+    <ClInclude Include="_0428_LV2_수식 최대화.h" />
+    <ClInclude Include="_0429_LV2_보석쇼핑.h" />
+    <ClInclude Include="_0429_twoPointer알고리즘.h" />
+    <ClInclude Include="_0502_LV3_불량 사용자.h" />
+    <ClInclude Include="_0503_LV3_징검다리 건너기.h" />
+    <ClInclude Include="헤더.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

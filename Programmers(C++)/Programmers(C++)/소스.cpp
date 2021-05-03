@@ -8,9 +8,14 @@
 //#include "_0412_LV1_3진법 뒤집기.h"
 //#include "_0412_LV1_체육복.h"
 //#include "_0413_LV1_문자열 내 마음대로 정렬하기.h"
-#include "_0419_LV1_비밀지도.h"
-#include "_0419_LV1_실패율.h"
-#include "_0419_LV1_다트 게임.h"
+//#include "_0419_LV1_비밀지도.h"
+//#include "_0419_LV1_실패율.h"
+//#include "_0419_LV1_다트 게임.h"
+#include "헤더.h"
+#include "_0429_LV2_보석쇼핑.h"
+#include "_0502_LV3_불량 사용자.h"
+#include "_0503_LV3_징검다리 건너기.h"
+
 void Show(vector<int> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
@@ -54,5 +59,22 @@ int main()
 	////vec.erase(unique(vec.begin(), vec.end()),vec.end());
 	//Show(vec);
 	//cout << solution1(20);
-	cout << solution("1D2S#10S");
+	//set<int> sets;
+	//sets.insert(4);
+	//sets.insert(2);
+
+	//vector<int> vec;
+	//int myints[] = { 1776, 7, 4 };
+
+	//Show(vec);
+	/*string s = "11-11";
+	for (int i = 0; i < s.size(); i++)
+	{
+		if (!isdigit(s[i]))
+		{
+			cout<<s[i]<<endl;
+		}
+	}*/
+
+	cout << solution1({ 2, 4, 5, 3, 2, 1, 2, 2, 2, 1}, 3);
 }

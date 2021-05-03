@@ -152,5 +152,26 @@
     <ClInclude Include="_0419_LV1_다트 게임.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0420_LV2_기능개발.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0428_LV2_수식 최대화.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="헤더.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0429_LV2_보석쇼핑.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0429_twoPointer알고리즘.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0502_LV3_불량 사용자.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0503_LV3_징검다리 건너기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

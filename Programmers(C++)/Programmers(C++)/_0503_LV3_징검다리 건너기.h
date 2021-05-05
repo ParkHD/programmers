@@ -11,7 +11,6 @@ int solution(vector<int> stones, int k)
     int end = k - 1;
 
     int number = 200000000;
-    cout << number;
     while (true)
     {
         int min = *max_element(stones.begin() + start, stones.begin() + end + 1);

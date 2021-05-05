@@ -192,6 +192,8 @@
     <ClInclude Include="_0429_twoPointer알고리즘.h" />
     <ClInclude Include="_0502_LV3_불량 사용자.h" />
     <ClInclude Include="_0503_LV3_징검다리 건너기.h" />
+    <ClInclude Include="_0505_LV2_124나라의 숫자.h" />
+    <ClInclude Include="_0505_LV2_튜플.h" />
     <ClInclude Include="헤더.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -11,11 +11,7 @@
 //#include "_0419_LV1_비밀지도.h"
 //#include "_0419_LV1_실패율.h"
 //#include "_0419_LV1_다트 게임.h"
-#include "헤더.h"
-#include "_0429_LV2_보석쇼핑.h"
-#include "_0502_LV3_불량 사용자.h"
-#include "_0503_LV3_징검다리 건너기.h"
-
+#include "_0505_LV2_튜플.h"
 void Show(vector<int> vector)
 {
 	for (int i = 0; i < vector.size(); i++)
@@ -25,10 +21,10 @@ void Show(vector<int> vector)
 }	
 int i;
 
-bool compare(char a, char b)
-{
-	return a>b;
-}
+//bool compare(char a, char b)
+//{
+//	return a>b;
+//}
 
 //vector<string> solution(vector<string> strings, int n) {
 //	i = n;
@@ -75,6 +71,6 @@ int main()
 			cout<<s[i]<<endl;
 		}
 	}*/
-
-	cout << solution1({ 2, 4, 5, 3, 2, 1, 2, 2, 2, 1}, 3);
+	Show(solution1("{{4,2,3},{3},{2,3,4,1},{2,3}}"));
+	
 }

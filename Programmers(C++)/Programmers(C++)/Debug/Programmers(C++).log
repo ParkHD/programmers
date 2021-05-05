@@ -7,35 +7,10 @@ C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개�
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(50,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(65,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(19,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(28,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(30,71): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(39,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(41,67): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(49,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(53,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\헤더.h(55,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(18,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(20,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(24,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(67,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(73,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(97,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(103,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(107,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(113,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(118,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(151,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(163,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(170,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(206,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(210,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(229,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(287,21): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(311,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0429_LV2_보석쇼핑.h(354,21): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0503_LV3_징검다리 건너기.h(27,17): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0503_LV3_징검다리 건너기.h(43,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0503_LV3_징검다리 건너기.h(55,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(21,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(47,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(99,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Programmers(C++).vcxproj -> C:\Users\guseh\source\repos\Programmers(C++)\Debug\Programmers(C++).exe

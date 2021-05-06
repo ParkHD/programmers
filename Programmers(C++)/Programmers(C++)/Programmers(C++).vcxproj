@@ -193,7 +193,12 @@
     <ClInclude Include="_0502_LV3_불량 사용자.h" />
     <ClInclude Include="_0503_LV3_징검다리 건너기.h" />
     <ClInclude Include="_0505_LV2_124나라의 숫자.h" />
+    <ClInclude Include="_0505_LV2_문자열 압축.h" />
     <ClInclude Include="_0505_LV2_튜플.h" />
+    <ClInclude Include="_0506_LV2_오픈채팅방.h" />
+    <ClInclude Include="_0506_LV2_짝지어 제거하기.h" />
+    <ClInclude Include="_0506_LV3_가장 먼 노드.h" />
+    <ClInclude Include="_0506_LV3_네트워크.h" />
     <ClInclude Include="헤더.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

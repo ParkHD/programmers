@@ -1,16 +1,5 @@
 ﻿  소스.cpp
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(17,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(19,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(26,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(50,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0409_LV1_두개의 수의 합.h(65,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(47,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0505_LV2_튜플.h(99,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\소스.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0506_LV3_가장 먼 노드.h(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0506_LV3_가장 먼 노드.h(30,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\guseh\source\repos\Programmers(C++)\Programmers(C++)\_0506_LV3_가장 먼 노드.h(44,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Programmers(C++).vcxproj -> C:\Users\guseh\source\repos\Programmers(C++)\Debug\Programmers(C++).exe

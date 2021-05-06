@@ -179,5 +179,20 @@
     <ClInclude Include="_0505_LV2_124나라의 숫자.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0505_LV2_문자열 압축.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0506_LV2_짝지어 제거하기.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0506_LV2_오픈채팅방.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0506_LV3_가장 먼 노드.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0506_LV3_네트워크.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

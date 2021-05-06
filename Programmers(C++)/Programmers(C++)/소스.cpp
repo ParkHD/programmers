@@ -1,4 +1,4 @@
-#include "_0409_LV1_두개의 수의 합.h";
+//#include "_0409_LV1_두개의 수의 합.h";
 //#include "_0409_LV1_크레인인형뽑기.h";
 //#include <list>
 //#include "_0410_LV1_완주하지 못한 선수.h"
@@ -11,14 +11,17 @@
 //#include "_0419_LV1_비밀지도.h"
 //#include "_0419_LV1_실패율.h"
 //#include "_0419_LV1_다트 게임.h"
-#include "_0505_LV2_튜플.h"
-void Show(vector<int> vector)
-{
-	for (int i = 0; i < vector.size(); i++)
-	{
-		cout << vector[i] << endl;
-	}
-}	
+//#include "_0505_LV2_튜플.h"
+//#include "_0505_LV2_문자열 압축.h"
+//#include "_0506_LV2_오픈채팅방.h"
+#include "_0506_LV3_가장 먼 노드.h"
+//void Show(vector<int> vector)
+//{
+//	for (int i = 0; i < vector.size(); i++)
+//	{
+//		cout << vector[i] << endl;
+//	}
+//}	
 int i;
 
 //bool compare(char a, char b)
@@ -71,6 +74,8 @@ int main()
 			cout<<s[i]<<endl;
 		}
 	}*/
-	Show(solution1("{{4,2,3},{3},{2,3,4,1},{2,3}}"));
-	
+	//Show(solution1("{{4,2,3},{3},{2,3,4,1},{2,3}}"));
+	//cout << solution("ababcdcdababcdcd");
+	//solution({ "Enter uid1 Muzi", "Enter uid2 Muzi", "Enter uid3 A" , "Leave uid1", "Change uid2 jack","Enter uid1 mary","Leave uid3" });
+	solution( 6, { {3, 6} ,{4, 3},{3, 2},{1, 3},{1, 2},{2, 4},{5, 2}} );
 }

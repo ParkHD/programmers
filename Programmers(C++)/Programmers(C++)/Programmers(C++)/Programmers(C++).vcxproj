@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{7e90bdd2-b842-4df2-a4bd-314638ce5d13}</ProjectGuid>
+    <RootNamespace>ProgrammersC</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_0412_LV1_가운데 글자 가져오기.h" />
+    <ClInclude Include="_0412_LV1_같은숫자는 싫어.h" />
+    <ClInclude Include="_0412_LV1_모의고사.h" />
+    <ClInclude Include="_0409_LV1_두개의 수의 합.h" />
+    <ClInclude Include="_0409_LV1_크레인인형뽑기.h" />
+    <ClInclude Include="_0410_LV1_신규아이디 추천.h" />
+    <ClInclude Include="_0410_LV1_완주하지 못한 선수.h" />
+    <ClInclude Include="_0412_LV1_K번째.h" />
+    <ClInclude Include="_0412_LV1_3진법 뒤집기.h" />
+    <ClInclude Include="_0412_LV1_체육복.h" />
+    <ClInclude Include="_0413_LV1_나누어 떨어지는 숫자배열.h" />
+    <ClInclude Include="_0413_LV1_두 정수 사이의 합.h" />
+    <ClInclude Include="_0413_LV1_문자열 내 p와y의 개수h.h" />
+    <ClInclude Include="_0413_LV1_문자열 내 마음대로 정렬하기.h" />
+    <ClInclude Include="_0413_LV1_폰켓몬.h" />
+    <ClInclude Include="_0414_LV1_문자열 내림차순으로 정렬하기.h" />
+    <ClInclude Include="_0415_LV1_문자열 다루기 기본.h" />
+    <ClInclude Include="_0415_LV1_서울에서 김서방 찾기.h" />
+    <ClInclude Include="_0415_LV1_소수 찾기.h" />
+    <ClInclude Include="_0416_LV1_문자열을 정수로 바꾸기.h" />
+    <ClInclude Include="_0416_LV1_수박수박수박.h" />
+    <ClInclude Include="_0416_LV1_시저 암호.h" />
+    <ClInclude Include="_0417_LV1_내적.h" />
+    <ClInclude Include="_0417_LV1_소수 만들기.h" />
+    <ClInclude Include="_0417_LV1_예산.h" />
+    <ClInclude Include="_0417_LV1_음양 더하기.h" />
+    <ClInclude Include="_0418_LV1_이상한문자 만들기.h" />
+    <ClInclude Include="_0418_LV1_자릿수 더하기.h" />
+    <ClInclude Include="_0418_LV1_자연수 뒤집어 배열로 만들기.h" />
+    <ClInclude Include="_0418_LV1_정수 내림차순으로 배치하기.h" />
+    <ClInclude Include="_0418_LV1_정수 제곱근 판별.h" />
+    <ClInclude Include="_0418_LV1_제일 작은 수 제거하기.h" />
+    <ClInclude Include="_0418_LV1_최대공약수와 최소공배수.h" />
+    <ClInclude Include="_0418_LV1_키패드 누르기.h" />
+    <ClInclude Include="_0419_LV1_x만큼 간격이 있는n개의 숫자.h" />
+    <ClInclude Include="_0419_LV1_다트 게임.h" />
+    <ClInclude Include="_0419_LV1_비밀지도.h" />
+    <ClInclude Include="_0419_LV1_실패율.h" />
+    <ClInclude Include="_0419_LV1_직사각형 별찍기.h" />
+    <ClInclude Include="_0419_LV1_콜라츠 추측.h" />
+    <ClInclude Include="_0419_LV1_평균구하기.h" />
+    <ClInclude Include="_0419_LV1_하샤드 수.h" />
+    <ClInclude Include="_0419_LV1_핸드폰 번호 가리기.h" />
+    <ClInclude Include="_0419_LV1_행렬의 덧셈.h" />
+    <ClInclude Include="_0420_LV2_기능개발.h" />
+    <ClInclude Include="_0428_LV2_수식 최대화.h" />
+    <ClInclude Include="_0429_LV2_보석쇼핑.h" />
+    <ClInclude Include="_0429_twoPointer알고리즘.h" />
+    <ClInclude Include="_0502_LV3_불량 사용자.h" />
+    <ClInclude Include="_0503_LV3_징검다리 건너기.h" />
+    <ClInclude Include="_0505_LV2_124나라의 숫자.h" />
+    <ClInclude Include="_0505_LV2_문자열 압축.h" />
+    <ClInclude Include="_0505_LV2_튜플.h" />
+    <ClInclude Include="_0506_LV2_오픈채팅방.h" />
+    <ClInclude Include="_0506_LV2_짝지어 제거하기.h" />
+    <ClInclude Include="_0506_LV3_가장 먼 노드.h" />
+    <ClInclude Include="_0506_LV3_네트워크.h" />
+    <ClInclude Include="_0506_LV3_단어변환.h" />
+    <ClInclude Include="_0507_LV3_경주로 건설.h" />
+    <ClInclude Include="_0507_LV3_경주로 건설2.h" />
+    <ClInclude Include="헤더.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

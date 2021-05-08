@@ -194,5 +194,29 @@
     <ClInclude Include="_0506_LV3_네트워크.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="_0506_LV3_단어변환.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0507_LV3_경주로 건설.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0507_LV3_경주로 건설2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="_0508_LV2_더 맵게.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="카카오1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="카카오2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="카카오3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="카카오4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

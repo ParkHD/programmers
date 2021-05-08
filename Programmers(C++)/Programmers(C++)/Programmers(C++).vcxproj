@@ -199,6 +199,14 @@
     <ClInclude Include="_0506_LV2_짝지어 제거하기.h" />
     <ClInclude Include="_0506_LV3_가장 먼 노드.h" />
     <ClInclude Include="_0506_LV3_네트워크.h" />
+    <ClInclude Include="_0506_LV3_단어변환.h" />
+    <ClInclude Include="_0507_LV3_경주로 건설.h" />
+    <ClInclude Include="_0507_LV3_경주로 건설2.h" />
+    <ClInclude Include="_0508_LV2_더 맵게.h" />
+    <ClInclude Include="카카오1.h" />
+    <ClInclude Include="카카오2.h" />
+    <ClInclude Include="카카오3.h" />
+    <ClInclude Include="카카오4.h" />
     <ClInclude Include="헤더.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

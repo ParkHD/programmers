@@ -14,7 +14,7 @@
 //#include "_0505_LV2_튜플.h"
 //#include "_0505_LV2_문자열 압축.h"
 //#include "_0506_LV2_오픈채팅방.h"
-#include "_0506_LV3_가장 먼 노드.h"
+#include "카카오4.h"
 //void Show(vector<int> vector)
 //{
 //	for (int i = 0; i < vector.size(); i++)
@@ -23,7 +23,7 @@
 //	}
 //}	
 int i;
-
+#include<iostream>
 //bool compare(char a, char b)
 //{
 //	return a>b;
@@ -77,5 +77,9 @@ int main()
 	//Show(solution1("{{4,2,3},{3},{2,3,4,1},{2,3}}"));
 	//cout << solution("ababcdcdababcdcd");
 	//solution({ "Enter uid1 Muzi", "Enter uid2 Muzi", "Enter uid3 A" , "Leave uid1", "Change uid2 jack","Enter uid1 mary","Leave uid3" });
-	solution( 6, { {3, 6} ,{4, 3},{3, 2},{1, 3},{1, 2},{2, 4},{5, 2}} );
+
+	//solution({ {0, 0, 1, 0} ,{0, 0, 0, 0},{0, 1, 0, 1},{1, 0, 0, 0} });
+	
+	solution(3, 1, 3, { {1, 2, 2}, { 3, 2, 3 } }, { 2 });
+
 }
